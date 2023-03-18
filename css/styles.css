@@ -38,9 +38,11 @@ footer {
     font-size: .8em;
 }
 
-ul li{
-    font-size: 1.0em;
+ul{ 
+    font-size: 1.5em;
+    line-height: 1.4em;
     font-family:'PT Serif', 'Sans-Serif';
+    color: #333;
 }
 
 ul.posts { 
